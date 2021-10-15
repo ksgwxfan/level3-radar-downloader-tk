@@ -86,7 +86,7 @@ Upon retrieving a list of contained URL's, you'll notice a common, but confusing
   - i.e. `sn.0030`, `sn.0201`, `sn.last`
 - These are the actual files which will be downloaded.
 - To assist you, associated dates/times with those files will be listed.
-- Natively, though they follow an iterative pattern, files higher in the sequence does not mean it is a newer file. There isn't any guaranteed order by time-stamp.
+- Natively, though they follow an iterative pattern, files higher in the sequence does not mean it is a newer file. There isn't any guaranteed order by filename.
 - So the app does this for you. The results are re-sorted to display in time-descending order (newest to oldest).
 - Upon downloading (but prior to saving), the data within the file is inspected to retrieve the proper WMO Header and Volume Time-Stamp.
 - The file is then saved with a readable filename:
