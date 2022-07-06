@@ -1,4 +1,4 @@
-# Level 3 Radar Downloader Tk
+# Level 3 Radar Downloader Tk, v1.0
 
 The purpose of this Python Tkinter Zipapp is to expedite the retrieval and archival of the most-recent Level-III Radar data.
 
